@@ -1,12 +1,12 @@
 {
 	"package": {
-	  "productName": "WeRead",
+	  "productName": "IcuDrive",
 	  "version": "1.0.0"
 	},
 	"tauri": {
 	  "windows": [
 		{
-		  "url": "https://weread.qq.com/",
+		  "url": "https://yunpan.icu/",
 		  "transparent": true,
 		  "fullscreen": false,
 		  "width": 1200,
